@@ -1,0 +1,8 @@
+git commit - acts like a save
+git branch - creates a new branch of code
+git checkout - moves to a chosen segment
+git pull - pulls code from main repository
+git push - adds code to main repository
+git merge -combines work into another branch
+git rebase - reorders everything
+git fetch - brings everything from remote repository to local
