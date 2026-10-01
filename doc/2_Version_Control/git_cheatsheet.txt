@@ -6,3 +6,6 @@ git push - adds code to main repository
 git merge -combines work into another branch
 git rebase - reorders everything
 git fetch - brings everything from remote repository to local
+git add - gets stuff in ur local repository ready
+git status - tells you where you are
+git log - tracks history
